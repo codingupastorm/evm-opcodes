@@ -1,0 +1,220 @@
+{
+  "opCodes": [
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Typically appears at the end of a function with a void return."
+    },
+    {
+      "value": "0x01",
+      "name": "ADD",
+      "popsFromStack": 2,
+      "addsToStack": 1,
+      "gasCost": 3,
+      "yellowPaperDescription": "Addition operation.",
+      "customDescription": "Takes the 2 elements at the top of the stack, adds them together, and pushes the result back onto the stack."
+    },
+    {
+      "value": "0x02",
+      "name": "MUL",
+      "popsFromStack": 2,
+      "addsToStack": 1,
+      "gasCost": 5,
+      "yellowPaperDescription": "Multiplication operation.",
+      "customDescription": "Takes the 2 elements at the top of the stack, multiplies them, and pushes the result back onto the stack."
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    },
+    {
+      "value": "0x00",
+      "name": "STOP",
+      "popsFromStack": 0,
+      "addsToStack": 0,
+      "gasCost": 0,
+      "yellowPaperDescription": "Halts execution.",
+      "customDescription": "Custom description"
+    }
+  ]
+}
